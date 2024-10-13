@@ -1,0 +1,21 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/fig1a.png" filesize="65918" filedate="2024-09-21 14:09:38" width="873px" height="590px"/>
+<image path="images/fig1b.png" filesize="54341" filedate="2024-09-21 14:09:38" width="882px" height="506px"/>
+<image path="images/fig2a.png" filesize="14263" filedate="2024-09-21 14:09:38" width="738px" height="323px"/>
+<image path="images/fig2b.png" filesize="10139" filedate="2024-09-21 14:09:38" width="680px" height="310px"/>
+<image path="images/fig3a.png" filesize="36010" filedate="2024-09-21 14:09:38" width="698px" height="685px"/>
+<image path="images/fig3b.png" filesize="44795" filedate="2024-09-21 14:09:38" width="852px" height="628px"/>
+<image path="images/fig4a.png" filesize="6677" filedate="2024-09-21 14:09:38" width="291px" height="628px"/>
+<image path="images/fig4b.png" filesize="5109" filedate="2024-09-21 14:09:38" width="304px" height="537px"/>
+<image path="images/lbrace2.png" filesize="262" filedate="2024-09-21 14:09:38" width="23px" height="80px"/>
+<image path="images/lbrace3.png" filesize="268" filedate="2024-09-21 14:09:38" width="23px" height="120px"/>
+<image path="images/lbrace4.png" filesize="264" filedate="2024-09-21 14:09:38" width="23px" height="160px"/>
+<image path="images/new-cover.jpg" filesize="187797" filedate="2024-09-21 14:09:38" width="960px" height="1440px"/>
+<image path="images/ornament.png" filesize="2369" filedate="2024-09-21 14:09:38" width="129px" height="175px"/>
+<image path="images/ornament2.png" filesize="4729" filedate="2024-09-21 14:09:38" width="163px" height="180px"/>
+<image path="images/qr74570.png" filesize="332" filedate="2024-10-13 08:01:04" width="296px" height="296px"/>
+<image path="images/rbrace2.png" filesize="260" filedate="2024-09-21 14:09:38" width="23px" height="80px"/>
+<image path="images/series-title.png" filesize="34589" filedate="2024-09-21 14:09:38" width="1043px" height="1440px"/>
+<image path="images/titlepage.png" filesize="26895" filedate="2024-09-21 14:09:38" width="968px" height="1440px"/>
+<image path="images/trident.png" filesize="548" filedate="2024-09-21 14:09:38" width="116px" height="103px"/>
+</images>

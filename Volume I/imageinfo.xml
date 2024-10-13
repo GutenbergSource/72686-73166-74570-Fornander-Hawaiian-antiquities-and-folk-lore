@@ -1,0 +1,15 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/fornander.jpg" filesize="154002" filedate="2024-01-10 19:45:17" width="964px" height="1390px"/>
+<image path="images/lbrace2.png" filesize="262" filedate="2024-01-10 19:45:17" width="23px" height="80px"/>
+<image path="images/lbrace3.png" filesize="268" filedate="2024-01-10 19:45:17" width="23px" height="120px"/>
+<image path="images/lbrace4.png" filesize="264" filedate="2024-01-10 19:45:17" width="23px" height="160px"/>
+<image path="images/lbrace7.png" filesize="272" filedate="2024-01-10 19:45:17" width="23px" height="280px"/>
+<image path="images/new-cover.jpg" filesize="186913" filedate="2024-01-10 19:45:17" width="960px" height="1440px"/>
+<image path="images/ornament.png" filesize="2369" filedate="2024-01-10 19:45:17" width="129px" height="175px"/>
+<image path="images/qr72686.png" filesize="322" filedate="2024-01-12 15:10:15" width="296px" height="296px"/>
+<image path="images/rbrace2.png" filesize="260" filedate="2024-01-10 19:45:17" width="23px" height="80px"/>
+<image path="images/rbrace3.png" filesize="265" filedate="2024-01-10 19:45:17" width="23px" height="120px"/>
+<image path="images/rbrace4.png" filesize="263" filedate="2024-01-10 19:45:17" width="23px" height="160px"/>
+<image path="images/signature.png" filesize="6432" filedate="2024-01-10 19:45:17" width="884px" height="149px"/>
+<image path="images/titlepage.png" filesize="29867" filedate="2024-01-10 19:45:17" width="1063px" height="1440px"/>
+</images>
